@@ -12,8 +12,7 @@ Mathematics Flutter is a collection of mathematical functions and tools that can
 * Web support
 * PWA support for desktop
 
-# Demo
-You can try a live demo of Mathematics Flutter at https://jaygajjar.ml/Mathematics/
+
 
 # Getting Started
 
